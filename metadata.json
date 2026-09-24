@@ -1,0 +1,6 @@
+{
+  "name": "موسسه آموزش عالی غیرانتفاعی سپاهان",
+  "description": "سامانه جامع آموزشی، انتخاب واحد، پرداخت شهریه، برنامه هفتگی و امتحانات موسسه آموزش عالی غیرانتفاعی سپاهان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
